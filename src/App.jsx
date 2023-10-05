@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import './App.css'
 import { Boton } from './Componets/boton'
-import {Image} from "@nextui-org/react";
 
 function App({texto}) {
   const[estado, setEstado] = useState("GARZA STORE")
