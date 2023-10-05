@@ -20,7 +20,7 @@ function App({texto}) {
     }}> Comprar producto</button>
     <button onClick={() => {
       alert("CUIDADOOO")
-    }}> Alerta</button>
+    }}> Ya no hay alerta</button>
     <button texto={"Ayuda"}></button>
   </div></>
 }
