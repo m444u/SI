@@ -19,8 +19,8 @@ function App({texto}) {
       
     }}> Comprar producto</button>
     <button onClick={() => {
-      
-    }}> Carrito</button>
+      alert("CUIDADOOO")
+    }}> Alerta</button>
     <button texto={"Ayuda"}></button>
   </div></>
 }
